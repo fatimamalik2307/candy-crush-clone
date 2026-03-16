@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.aps
+*.ncb
+
+# Build outputs
+x64/
+Debug/
+Release/
+*.exe
+ipch/
+
+# Visual Studio Code
+.vscode/
+
+# Object files
+*.o
+*.obj
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
